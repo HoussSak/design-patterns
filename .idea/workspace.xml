@@ -5,46 +5,139 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a32e8ed-397e-4c2c-9dd7-244a606d1689" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/solid/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/BalancedTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/RotationTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/Ceo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/ICEO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/IEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/IManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/liskovsubtitutionprinciple/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/liskovsubtitutionprinciple/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/liskovsubtitutionprinciple/Fuel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/liskovsubtitutionprinciple/PatrolCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/liskovsubtitutionprinciple/Vehicule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/AIInterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/AlgorithmsInterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/ComputerScienceInterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/FinanceInterviewQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/InterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/InterviewQuestionProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/exercice01/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/exercice01/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/exercice01/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/exercice01/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/exercice01/Sorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/exercice01/SorterProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/InputProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/ViolationChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/exercice01/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/exercice01/ListAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/exercice01/ListProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/exercice01/Sotring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/OperationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/OperationManagerBAD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/Substraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/exercice01/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/exercice01/DeviceStrategyRender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/exercice01/ImageManagerBAD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/exercice01/ImageRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/exercice01/LaptopRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/exercice01/SmartphoneRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/behavioraldp/strategy/exercice01/TVRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/builder/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/builder/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/builder/exercice01/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/builder/exercice01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/AnimalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/abtractfactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/abtractfactory/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/abtractfactory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/abtractfactory/ElectricCarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/abtractfactory/ElectricFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/abtractfactory/ElectricToyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/abtractfactory/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/abtractfactory/PetrolCarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/abtractfactory/PetrolFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/factory/abtractfactory/PetrolToyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/prototype/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/prototype/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/prototype/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/prototype/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/singleton/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/singleton/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/designpatterns/creationaldp/singleton/DatabaseConnector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/solid/dependencyinversionprinciple/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/solid/dependencyinversionprinciple/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/solid/dependencyinversionprinciple/DatabaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/solid/dependencyinversionprinciple/MySQLDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/solid/dependencyinversionprinciple/OracleDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/solid/dependencyinversionprinciple/exercice01/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/solid/dependencyinversionprinciple/exercice01/PayPal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/solid/dependencyinversionprinciple/exercice01/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/solid/dependencyinversionprinciple/exercice01/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/solid/dependencyinversionprinciple/exercice01/Payoneer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid/src/main/java/solid/dependencyinversionprinciple/exercice01/Skrill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/interfacesegregationprinciple/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/BalancedTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/interfacesegregationprinciple/BalancedTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/interfacesegregationprinciple/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/RotationTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/interfacesegregationprinciple/RotationTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/interfacesegregationprinciple/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/interfacesegregationprinciple/exercice01/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/Ceo.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/interfacesegregationprinciple/exercice01/Ceo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/interfacesegregationprinciple/exercice01/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/ICEO.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/interfacesegregationprinciple/exercice01/ICEO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/IEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/interfacesegregationprinciple/exercice01/IEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/IManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/interfacesegregationprinciple/exercice01/IManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/interfacesegregationprinciple/exercice01/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/interfacesegregationprinciple/exercice01/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/liskovsubtitutionprinciple/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/liskovsubtitutionprinciple/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/liskovsubtitutionprinciple/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/liskovsubtitutionprinciple/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/liskovsubtitutionprinciple/Fuel.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/liskovsubtitutionprinciple/Fuel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/liskovsubtitutionprinciple/PatrolCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/liskovsubtitutionprinciple/PatrolCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/liskovsubtitutionprinciple/Vehicule.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/liskovsubtitutionprinciple/Vehicule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/AIInterviewQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/AIInterviewQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/AlgorithmsInterviewQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/AlgorithmsInterviewQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/ComputerScienceInterviewQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/ComputerScienceInterviewQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/FinanceInterviewQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/FinanceInterviewQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/InterviewQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/InterviewQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/InterviewQuestionProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/InterviewQuestionProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/exercice01/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/exercice01/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/exercice01/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/exercice01/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/exercice01/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/exercice01/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/exercice01/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/exercice01/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/exercice01/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/exercice01/Sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/openclosedprinciple/exercice01/SorterProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/openclosedprinciple/exercice01/SorterProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/singleresponsibilityprinciple/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/InputProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/singleresponsibilityprinciple/InputProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/singleresponsibilityprinciple/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/singleresponsibilityprinciple/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/ViolationChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/singleresponsibilityprinciple/ViolationChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/exercice01/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/singleresponsibilityprinciple/exercice01/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/exercice01/ListAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/singleresponsibilityprinciple/exercice01/ListAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/exercice01/ListProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/singleresponsibilityprinciple/exercice01/ListProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/src/main/java/singleresponsibilityprinciple/exercice01/Sotring.java" beforeDir="false" afterPath="$PROJECT_DIR$/solid/src/main/java/solid/singleresponsibilityprinciple/exercice01/Sotring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/interfacesegregationprinciple/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/interfacesegregationprinciple/BalancedTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/interfacesegregationprinciple/BinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/interfacesegregationprinciple/RotationTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/interfacesegregationprinciple/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/interfacesegregationprinciple/exercice01/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/interfacesegregationprinciple/exercice01/Ceo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/interfacesegregationprinciple/exercice01/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/interfacesegregationprinciple/exercice01/ICEO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/interfacesegregationprinciple/exercice01/IEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/interfacesegregationprinciple/exercice01/IManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/interfacesegregationprinciple/exercice01/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/liskovsubtitutionprinciple/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/liskovsubtitutionprinciple/ElectricCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/liskovsubtitutionprinciple/Fuel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/liskovsubtitutionprinciple/PatrolCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/liskovsubtitutionprinciple/Vehicule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/AIInterviewQuestions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/AlgorithmsInterviewQuestions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/ComputerScienceInterviewQuestions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/FinanceInterviewQuestions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/InterviewQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/InterviewQuestionProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/exercice01/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/exercice01/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/exercice01/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/exercice01/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/exercice01/Sorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/openclosedprinciple/exercice01/SorterProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/singleresponsibilityprinciple/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/singleresponsibilityprinciple/InputProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/singleresponsibilityprinciple/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/singleresponsibilityprinciple/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/singleresponsibilityprinciple/ViolationChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/singleresponsibilityprinciple/exercice01/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/singleresponsibilityprinciple/exercice01/ListAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/singleresponsibilityprinciple/exercice01/ListProcess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid/target/classes/singleresponsibilityprinciple/exercice01/Sotring.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +147,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -62,10 +156,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2vtjB2w5xkBvg27dvOncZca1mk5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -73,12 +170,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "Application.dependencyinversionprinciple.App.executor": "Run",
+    "Application.dependencyinversionprinciple.exercice01.App.executor": "Run",
+    "Application.designpatterns.behavioraldp.strategy.App.executor": "Run",
+    "Application.designpatterns.behavioraldp.strategy.exercice01.App.executor": "Run",
+    "Application.designpatterns.creationaldp.builder.exercice01.App.executor": "Run",
+    "Application.designpatterns.creationaldp.factory.App.executor": "Run",
+    "Application.designpatterns.creationaldp.factory.abtractfactory.App.executor": "Run",
+    "Application.designpatterns.creationaldp.prototype.App.executor": "Run",
+    "Application.designpatterns.creationaldp.singleton.App.executor": "Run",
     "Application.globalsoftwaresupport.exercice01.App.executor": "Run",
     "Application.interfacesegregationprinciple.App.executor": "Run",
     "Application.liskovsubtitutionprinciple.App.executor": "Run",
     "Application.openclosedprinciple.App.executor": "Run",
     "Application.openclosedprinciple.exercice01.App.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/55154m/workspaces/design-patterns",
@@ -94,18 +201,24 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="designpatterns.creationaldp.factory" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="designpatterns.behavioraldp.strategy" />
+      <recent name="designpatterns.creationaldp.prototype" />
+      <recent name="designpatterns.creationaldp.factory.abtractfactory" />
+      <recent name="dependencyinversionprinciple" />
       <recent name="openclosedprinciple.exercice01" />
-      <recent name="openclosedprinciple" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.designpatterns.behavioraldp.strategy.exercice01.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfacesegregationprinciple.exercice01.App" />
+      <option name="MAIN_CLASS_NAME" value="designpatterns.creationaldp.builder.App" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfacesegregationprinciple.exercice01.*" />
+          <option name="PATTERN" value="designpatterns.creationaldp.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interfacesegregationprinciple.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfacesegregationprinciple.App" />
+    <configuration name="designpatterns.behavioraldp.strategy.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.behavioraldp.strategy.App" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfacesegregationprinciple.*" />
+          <option name="PATTERN" value="designpatterns.behavioraldp.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="liskovsubtitutionprinciple.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="liskovsubtitutionprinciple.App" />
+    <configuration name="designpatterns.behavioraldp.strategy.exercice01.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.behavioraldp.strategy.exercice01.App" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="liskovsubtitutionprinciple.*" />
+          <option name="PATTERN" value="designpatterns.behavioraldp.strategy.exercice01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="openclosedprinciple.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="openclosedprinciple.App" />
+    <configuration name="designpatterns.creationaldp.builder.exercice01.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.creationaldp.builder.exercice01.App" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="openclosedprinciple.*" />
+          <option name="PATTERN" value="designpatterns.creationaldp.builder.exercice01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="openclosedprinciple.exercice01.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="openclosedprinciple.exercice01.App" />
+    <configuration name="designpatterns.creationaldp.prototype.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.creationaldp.prototype.App" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="openclosedprinciple.exercice01.*" />
+          <option name="PATTERN" value="designpatterns.creationaldp.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.designpatterns.behavioraldp.strategy.exercice01.App" />
+        <item itemvalue="Application.designpatterns.behavioraldp.strategy.App" />
+        <item itemvalue="Application.designpatterns.creationaldp.prototype.App" />
+        <item itemvalue="Application.designpatterns.creationaldp.builder.exercice01.App" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.interfacesegregationprinciple.App" />
-        <item itemvalue="Application.liskovsubtitutionprinciple.App" />
-        <item itemvalue="Application.openclosedprinciple.exercice01.App" />
-        <item itemvalue="Application.openclosedprinciple.App" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +304,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744971125384</updated>
-      <workItem from="1744971126451" duration="13110000" />
+      <workItem from="1744971126451" duration="15277000" />
+      <workItem from="1745232910411" duration="10577000" />
+      <workItem from="1745310535599" duration="4364000" />
+      <workItem from="1745479095371" duration="4015000" />
+      <workItem from="1745675121992" duration="4728000" />
     </task>
     <servers />
   </component>
